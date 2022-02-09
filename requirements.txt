@@ -4,3 +4,5 @@ sympy
 jupyter
 imageio
 ipywidgets
+psycopg2-binary
+mybatis_mapper2sql
