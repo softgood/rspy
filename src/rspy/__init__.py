@@ -2,7 +2,6 @@
 from pkg_resources import get_distribution, DistributionNotFound
 from .util import *
 from .preprocess import *
-from .database import *
 from .visual import *
 
 try:
