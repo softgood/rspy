@@ -4,4 +4,4 @@ sympy
 jupyter
 imageio
 ipywidgets
-mybatis_mapper2sql==0.1.9
+mybatis_mapper2sql
