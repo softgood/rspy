@@ -4,5 +4,4 @@ sympy
 jupyter
 imageio
 ipywidgets
-psycopg2-binary=2.9.3
 mybatis_mapper2sql==0.1.9
