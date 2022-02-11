@@ -4,7 +4,7 @@ import ipywidgets as ipw
 from matplotlib import font_manager
 import pandas as pd
 
-def printMulti(*args, colSize=None, width="100%", margin="3px"):
+def showMulti(*args, colSize=None, width="100%", margin="3px"):
     """Display multiple output data lines and columns as desired.
     Args:
       args: multiple datas.
